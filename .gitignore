@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.angular/
+coverage/
+.env
+.env.*
+*.clixml
+frontend/restaurant-frontend-app/src/environments/environment.production.ts
